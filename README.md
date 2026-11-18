@@ -122,13 +122,13 @@ VTX의 지속적인 작동에 의한 발열 문제를 해결하기 위해 전면
 
 ![실기체 전장 조립 과정](images/hw/assembly-photo.jpg)
 
-*보고서 실기체 전장 조립 과정.*
+*실기체 전장 조립 과정.*
 
 ![실내 시제품 사진](images/hw/indoor-photo.jpg)
 
 ![야외 시제품 사진](images/hw/outdoor-photo.jpg)
 
-*보고서에 수록된 실물 시제품 사진.*
+*실물 시제품 사진.*
 
 ## 9. HW 설계 파일
 
@@ -136,8 +136,4 @@ VTX의 지속적인 작동에 의한 발열 문제를 해결하기 위해 전면
 - [발사기 STEP 파일](HW/launcher_step/)
 - [디스플레이 STEP 파일](HW/launcher/)
 - [전장 설계 자료](HW/ElectricalSystemDesign.md)
-- [부품·기자재 목록](HW/INAIR_%EC%9E%AC%EC%82%B0%ED%91%9C.xlsx)
 
----
-
-본문·사진 출처: 「항공드론 종합설계 경진대회_INAIR_최종결과 보고서」.
