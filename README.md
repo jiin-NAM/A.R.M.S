@@ -137,3 +137,8 @@ VTX의 지속적인 작동에 의한 발열 문제를 해결하기 위해 전면
 - [디스플레이 STEP 파일](HW/launcher/)
 - [전장 설계 자료](HW/ElectricalSystemDesign.md)
 
+
+## 10. Vision detection
+
+- [YOLO detection 자료](YOLO%20detection/)
+- [풍선 객체 검출 노트북](YOLO%20detection/Balloon.ipynb)
